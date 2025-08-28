@@ -13,7 +13,7 @@ Este projeto será desenvolvido em equipe. Perfis dos integrantes no GitHub:
 
 | Nome | GitHub |
 | ----------------------- | ------ |
-| Angelina Ferreira       | [@angelinaferreira888](https://github.com/angelinaferreira888) |
+| Angelina Ferreira       | [@angelinasilvaa](https://github.com/angelinasilvaa) |
 | Beatriz Rodrigues       | [@cocacolaretornavel](https://github.com/cocacolaretornavel) |
 | Letícia França       | [@leticiafranca](https://github.com/leticiafranca) |
 
