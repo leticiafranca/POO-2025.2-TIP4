@@ -17,8 +17,7 @@ A tabela abaixo lista os enunciados dos exercícios que já possuem uma soluçã
 | **5** | Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor da série a seguir [...] |
 | **6** | Uma empresa possui dez funcionários com as seguintes características: código, número de horas trabalhadas no mês, turno de trabalho (M — matutino; V — vespertino; ou N — noturno), categoria (O — operário; ou G — gerente), valor da hora trabalhada. Sabendo-se que essa empresa deseja informatizar sua folha de pagamento, faça um programa que: [...] |
 | **7** | Faça um programa que monte os oito primeiros termos da sequência de Fibonacci. <br><b> 0-1-1-2-3-5-8-13-21-34-55... |
-| **8** | Faça um programa que leia o número de termos, determine e mostre os valores de acordo com a série
-a seguir: <br><b>Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768... |
+| **8** | Faça um programa que leia o número de termos, determine e mostre os valores de acordo com a série a seguir: <br><b>Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768... |
 | **9** | Faça um programa que receba duas notas de seis alunos. Calcule e mostre: [...] |
 | **10** | Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um programa que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre: [...] |
 
